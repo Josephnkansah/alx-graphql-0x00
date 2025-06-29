@@ -1,0 +1,129 @@
+{
+    "data": {
+      "characters": {
+        "results": [
+          {
+            "id": "41",
+            "name": "Big Boobed Waitress",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg"
+          },
+          {
+            "id": "42",
+            "name": "Big Head Morty",
+            "status": "Dead",
+            "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg"
+          },
+          {
+            "id": "43",
+            "name": "Big Morty",
+            "status": "Dead",
+            "image": "https://rickandmortyapi.com/api/character/avatar/43.jpeg"
+          },
+          {
+            "id": "44",
+            "name": "Body Guard Morty",
+            "status": "Dead",
+            "image": "https://rickandmortyapi.com/api/character/avatar/44.jpeg"
+          },
+          {
+            "id": "45",
+            "name": "Bill",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/45.jpeg"
+          },
+          {
+            "id": "46",
+            "name": "Bill",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/46.jpeg"
+          },
+          {
+            "id": "47",
+            "name": "Birdperson",
+            "status": "Dead",
+            "image": "https://rickandmortyapi.com/api/character/avatar/47.jpeg"
+          },
+          {
+            "id": "48",
+            "name": "Blamph",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/48.jpeg"
+          },
+          {
+            "id": "49",
+            "name": "Blim Blam",
+            "status": "unknown",
+            "image": "https://rickandmortyapi.com/api/character/avatar/49.jpeg"
+          },
+          {
+            "id": "50",
+            "name": "Blue Shirt Morty",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/50.jpeg"
+          },
+          {
+            "id": "51",
+            "name": "Bobby Moynihan",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/51.jpeg"
+          },
+          {
+            "id": "52",
+            "name": "Boobloosian",
+            "status": "Dead",
+            "image": "https://rickandmortyapi.com/api/character/avatar/52.jpeg"
+          },
+          {
+            "id": "53",
+            "name": "Bootleg Portal Chemist",
+            "status": "Dead",
+            "image": "https://rickandmortyapi.com/api/character/avatar/53.jpeg"
+          },
+          {
+            "id": "54",
+            "name": "Borpocian",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/54.jpeg"
+          },
+          {
+            "id": "55",
+            "name": "Brad",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/55.jpeg"
+          },
+          {
+            "id": "56",
+            "name": "Brad Anderson",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/56.jpeg"
+          },
+          {
+            "id": "57",
+            "name": "Calypso",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/57.jpeg"
+          },
+          {
+            "id": "58",
+            "name": "Campaign Manager Morty",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/58.jpeg"
+          },
+          {
+            "id": "59",
+            "name": "Canklanker Thom",
+            "status": "Dead",
+            "image": "https://rickandmortyapi.com/api/character/avatar/59.jpeg"
+          },
+          {
+            "id": "60",
+            "name": "Centaur",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/60.jpeg"
+          }
+        ]
+      }
+    }
+  }
+  
