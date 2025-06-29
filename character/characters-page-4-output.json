@@ -1,0 +1,129 @@
+{
+    "data": {
+      "characters": {
+        "results": [
+          {
+            "id": "61",
+            "name": "Centaur Female",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg"
+          },
+          {
+            "id": "62",
+            "name": "Chair Soldier",
+            "status": "Dead",
+            "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
+          },
+          {
+            "id": "63",
+            "name": "Chantel",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/63.jpeg"
+          },
+          {
+            "id": "64",
+            "name": "Charon",
+            "status": "Dead",
+            "image": "https://rickandmortyapi.com/api/character/avatar/64.jpeg"
+          },
+          {
+            "id": "65",
+            "name": "Chaz Finster",
+            "status": "unknown",
+            "image": "https://rickandmortyapi.com/api/character/avatar/65.jpeg"
+          },
+          {
+            "id": "66",
+            "name": "Chris",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/66.jpeg"
+          },
+          {
+            "id": "67",
+            "name": "Chunky",
+            "status": "Dead",
+            "image": "https://rickandmortyapi.com/api/character/avatar/67.jpeg"
+          },
+          {
+            "id": "68",
+            "name": "Clyde",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/68.jpeg"
+          },
+          {
+            "id": "69",
+            "name": "Clumpus",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/69.jpeg"
+          },
+          {
+            "id": "70",
+            "name": "Coach Feratu",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/70.jpeg"
+          },
+          {
+            "id": "71",
+            "name": "Colby",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/71.jpeg"
+          },
+          {
+            "id": "72",
+            "name": "Collis",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/72.jpeg"
+          },
+          {
+            "id": "73",
+            "name": "Compost",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/73.jpeg"
+          },
+          {
+            "id": "74",
+            "name": "Concerto",
+            "status": "unknown",
+            "image": "https://rickandmortyapi.com/api/character/avatar/74.jpeg"
+          },
+          {
+            "id": "75",
+            "name": "Conroy",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/75.jpeg"
+          },
+          {
+            "id": "76",
+            "name": "Cool Rick",
+            "status": "Dead",
+            "image": "https://rickandmortyapi.com/api/character/avatar/76.jpeg"
+          },
+          {
+            "id": "77",
+            "name": "Cop Morty",
+            "status": "Dead",
+            "image": "https://rickandmortyapi.com/api/character/avatar/77.jpeg"
+          },
+          {
+            "id": "78",
+            "name": "Cornvelious Daniel",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/78.jpeg"
+          },
+          {
+            "id": "79",
+            "name": "Council of Ricks",
+            "status": "Dead",
+            "image": "https://rickandmortyapi.com/api/character/avatar/79.jpeg"
+          },
+          {
+            "id": "80",
+            "name": "Council Member",
+            "status": "Dead",
+            "image": "https://rickandmortyapi.com/api/character/avatar/80.jpeg"
+          }
+        ]
+      }
+    }
+  }
+  
